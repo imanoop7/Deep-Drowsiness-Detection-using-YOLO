@@ -3,3 +3,4 @@ yolov5/
 
 data/*
 labelImg/*
+labelImg/
